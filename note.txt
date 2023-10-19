@@ -3,3 +3,6 @@ ng new tour-of-heroes
 
 运行项目:
 ng serve --open
+
+CLI创建Component:
+ng generate component heroes
