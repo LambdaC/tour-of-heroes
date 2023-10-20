@@ -12,3 +12,6 @@ ng generate service hero
 
 CLI创建Module:
 ng generate module app-routing --flat --module=app
+
+使用angular-in-memory-web-api:
+npm install angular-in-memory-web-api --save
