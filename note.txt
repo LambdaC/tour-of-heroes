@@ -6,3 +6,7 @@ ng serve --open
 
 CLI创建Component:
 ng generate component heroes
+
+
+CLI创建Service:
+ng generate service hero
